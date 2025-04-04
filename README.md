@@ -23,6 +23,7 @@
 
 #### 📞 Contact
 ***Email.*** [arheon2469@gmail.com](arheon2469@gmail.com) &nbsp;
+***Blog.*** [https://inuk-ai.github.io/](https://inuk-ai.github.io/) &nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INUK-ai)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
