@@ -22,7 +22,7 @@
 <a target="_blank"><img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/></a>
 
 #### 📞 Contact
-***Email.*** [arheon2469@gmail.com](arheon2469@gmail.com) &nbsp;
+***Email.*** [arheon2469@gmail.com](arheon2469@gmail.com) </br>
 ***Blog.*** [https://inuk-ai.github.io/](https://inuk-ai.github.io/) &nbsp;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INUK-ai)](https://github.com/anuraghazra/github-readme-stats)
