@@ -1,4 +1,5 @@
 #### 🗂️ Projects 
+- [NoModel](https://github.com/prgrms-aibe-devcourse/AIBE2_FinalProject_NoModel_BE) - 생성형 AI 기반 광고 이미지 제작 플랫폼 (2025)
 - [Ticketaka](https://github.com/MTVS3FinalProject/MTVS3_Final_Cursor) - 메타버스 티켓팅 플랫폼 (2024)
 - [Todorian](https://github.com/MTVS-3rd-TODORIAN/TODORIAN_BE) - 게이미피케이션 기반 일정 관리 서비스 (2024)
 - [Wekiki](https://github.com/Step3-kakao-tech-campus/Team8_BE) - 그룹 기반 커뮤니티 서비스 (2023)
